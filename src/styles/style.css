@@ -10,6 +10,7 @@
 }
 .nav ul li {
   display: inline;
+  cursor: pointer;
 }
 .nav .icons {
   display: flex;
