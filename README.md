@@ -1,1 +1,1 @@
-# `(https://app.netlify.com/sites/react-fashion-site)`
+# `(https://react-fashion-site.netlify.app/)`

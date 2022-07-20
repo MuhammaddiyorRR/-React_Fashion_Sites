@@ -27,18 +27,6 @@ export default class App extends Navbar {
         </div>
         <Footer />
 
-        {/* <Text
-          title="Top Sellers"
-          description=" The leading top-selling NFT artist in the top 5 list this year.:
-             Examining Some of the Most Popular NFT projects ·"
-        />
-        <Sellers />
-        <Text
-          title="Hot Bids"
-          description=" Non-Fungible Tokens (NFTs) are virtual tokens minted on the blockchain for digital scarcity, security, and authenticity."
-        />
-        <Bids />
-        <Footer /> */}
       </div>
     );
   }
